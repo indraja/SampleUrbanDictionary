@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NikeTestDictionary</string>
+
+    <string name="thumbs_up">Thumbs Up :&#160;</string>
+    <string name="thumbs_down">Thumbs Down :&#160;</string>
+    <string name="definition">Definition :</string>
+    <string name="type_word">Type a word to search</string>
+    <string name="most_thumbs_up">Most Thumbs Up</string>
+    <string name="least_thumbs_down">Least Thumbs Down</string>
+    <string name="definitions_not_found">Definitions not found</string>
+</resources>
